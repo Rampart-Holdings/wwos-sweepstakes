@@ -2,11 +2,10 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "goat-dev",
+      "name": "wwos-dev",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["run", "dev", "--", "-p", "7000"],
-      "cwd": "C:/projects/goat-fan-games",
-      "port": 7000
+      "runtimeArgs": ["run", "dev"],
+      "port": 3000
     }
   ]
 }
